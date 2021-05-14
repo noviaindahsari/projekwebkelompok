@@ -1,0 +1,31 @@
+body{
+	font-family: 'Varela Round', sans-serif;
+	background-image: url('./imgg/backroundutama.png');
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+/*navigasi*/
+a{
+	color: #19323c;
+}
+
+.navbar-brand{
+	font-size: 1.5rem;
+	font-weight: 700;
+}
+
+.nav-link{
+	font-size: 1.1rem;
+	font-weight: 400;
+}
+
+.hero-content{
+	margin-top: 4rem;
+}
+.hero-content h1{
+	font-weight: 800;
+	font-size: 3rem;
+}
+.hero-content h3{
+	font-weight: 600;
+}
