@@ -1,0 +1,54 @@
+html{
+	position: relative;
+}
+
+
+body{
+	margin-bottom: 100px;
+	font-family: 'Varela Round', sans-serif;
+	background-image: url('backroundutama.png');
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+/*navigasi*/
+a{
+	color: #19323c;
+}
+
+.navbar-brand{
+	font-size: 1.5rem;
+	font-weight: 700;
+}
+
+.nav-link{
+	font-size: 1.1rem;
+	font-weight: 500;
+}
+
+.hero-content{
+	margin-top: 4rem;
+}
+.hero-content h2{
+	font-weight: 800;
+	font-size: 3rem;
+}
+.hero-content h3{
+	font-weight: 600;
+}
+
+/*about*/
+#more {display: none;}
+
+.about .selection-heading {
+	font-weight: 500;
+	font-size: 3rem;
+}
+.about .mt-3 {
+	text-indent: 45px;
+}
+
+.btn-dark {
+	background-color: #0FDEE6;
+	color:#fafaff;
+	font-size: 1.3rem;
+}
